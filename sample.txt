@@ -1,3 +1,7 @@
 This is a sample file for the lecture.
 
 I want to go home, but not, because I have many task.
+
+Mottainai is a very popular word around the world.
+
+This text wants more comments.
