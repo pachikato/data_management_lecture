@@ -1,3 +1,3 @@
 # data_management_lecture
 
-Hello world!
+Lecture slide will be uploaded at github.com/iheus
